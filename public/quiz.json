@@ -1,0 +1,113 @@
+[
+      {
+        "id": "01",
+        "question": "Which country has won the most FIFA World Cup titles?",
+        "options": [
+          "Brazil",
+          "Germany",
+          "Italy",
+          "Argentina"
+        ],
+        "answer": "Brazil"
+      },
+      {
+        "id": "02",
+        "question": "Who is the all-time leading goalscorer in international football?",
+        "options": [
+          "Lionel Messi",
+          "Cristiano Ronaldo",
+          "Pelé",
+          "Marta"
+        ],
+        "answer": "Cristiano Ronaldo"
+      },
+      {
+        "id": "03",
+        "question": "Which club has won the most UEFA Champions League titles?",
+        "options": [
+          "Real Madrid",
+          "AC Milan",
+          "Liverpool",
+          "Bayern Munich"
+        ],
+        "answer": "Real Madrid"
+      },
+      {
+        "id": "04",
+        "question": "Who holds the record for the most goals scored in a single FIFA World Cup tournament?",
+        "options": [
+          "Just Fontaine",
+          "Gerd Müller",
+          "Ronaldo",
+          "Miroslav Klose"
+        ],
+        "answer": "Just Fontaine"
+      },
+      {
+        "id": "05",
+        "question": "Who is the all-time leading goalscorer in the English Premier League?",
+        "options": [
+          "Alan Shearer",
+          "Wayne Rooney",
+          "Thierry Henry",
+          "Andy Cole"
+        ],
+        "answer": "Alan Shearer"
+      },
+      {
+        "id": "06",
+        "question": "Which player has won the most Ballon d'Or awards?",
+        "options": [
+          "Lionel Messi",
+          "Cristiano Ronaldo",
+          "Michel Platini",
+          "Johan Cruyff"
+        ],
+        "answer": "Lionel Messi"
+      },
+      {
+        "id": "07",
+        "question": "Which country has won the most Copa America titles?",
+        "options": [
+          "Brazil",
+          "Argentina",
+          "Uruguay",
+          "Chile"
+        ],
+        "answer": "Uruguay"
+      },
+      {
+        "id": "08",
+        "question": "Which club has won the most English Premier League titles?",
+        "options": [
+          "Manchester United",
+          "Liverpool",
+          "Arsenal",
+          "Chelsea"
+        ],
+        "answer": "Manchester United"
+      },
+      {
+        "id": "09",
+        "question": "Who is the all-time leading goalscorer for the Brazilian national team?",
+        "options": [
+          "Romário",
+          "Pelé",
+          "Ronaldo",
+          "Neymar"
+        ],
+        "answer": "Pelé"
+      },
+      {
+        "id": "10",
+        "question": "Which player has won the most UEFA Champions League titles?",
+        "options": [
+          "Cristiano Ronaldo",
+          "Lionel Messi",
+          "Sergio Ramos",
+          "Xavi"
+        ],
+        "answer": "Cristiano Ronaldo"
+      }
+]
+  
